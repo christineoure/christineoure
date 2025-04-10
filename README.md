@@ -1,5 +1,17 @@
 <!-- Banner image (optional) -->
 <!--<img src="https://your-banner-image-url.com" alt="banner" style="width:100%;"/> -->
+<!-- Banner image (optional) -->
+<!--<img src="https://your-banner-image-url.com" alt="banner" style="width:100%;"/> -->
+
+<!-- Banner image (optional) -->
+<!--<img src="https://your-banner-image-url.com" alt="banner" style="width:100%;"/> -->
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=christineoure&label=Profile%20views&color=0e75b6&style=flat" alt="christineoure" />
+</p>
+
+
+
 
 <h1 align="center">Hi there 👋, I'm Christine Oure</h1>
 <h3 align="center">
